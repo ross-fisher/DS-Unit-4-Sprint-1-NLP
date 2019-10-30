@@ -1,0 +1,2 @@
+conda create -n nlp python=3.8
+conda activate nlp
